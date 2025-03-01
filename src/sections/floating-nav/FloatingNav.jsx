@@ -6,4 +6,4 @@ const FloatingNav = () => {
   )
 }
 
-export default Floatin<section id="floating-nav"></section>
+export default FloatingNav
