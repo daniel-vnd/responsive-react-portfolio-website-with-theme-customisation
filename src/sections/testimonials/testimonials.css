@@ -3,8 +3,7 @@
 }
 
 .swiper {
-    /* height: fit-content; */
-    height: 30rem;
+    height: fit-content;
     padding-bottom: 12rem;
     /* this padding top is to give for micro interaction on hover of swiper slide */
     padding-top: 1rem;
@@ -14,7 +13,7 @@
     cursor: grab;
 }
 
-.tesimonial__client {
+.testimonial__client {
     display: flex;
     align-items: center;
     gap: 1rem;

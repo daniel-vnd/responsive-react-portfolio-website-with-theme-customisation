@@ -22,6 +22,7 @@ const data = [
 
 // alternative whatsApp link
 // https://wa.me/yournumber
+// https://api.whatsapp.com/send/?phone=%2B233557097546
 
 
 export default data;
